@@ -11,7 +11,7 @@ h3 {
 p {
     color: dark purple;
     font-style: italic;
-    align-items: center;
+    text-align: center;
 }
 /* adds dotted blue border to images */
 img {
