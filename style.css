@@ -9,8 +9,8 @@ h3 {
 }
 /* makes all paragraphs purple in color, italic & aligned in center */
 p {
-    color: dark purple;
-    font-style: italic;
+    color: rgb(87, 4, 122); 
+    font-style: italic ;
     text-align: center;
 }
 /* adds dotted blue border to images */
