@@ -7,5 +7,19 @@
 h3 {
     font-style: italic;
 }
+/* makes all paragraphs purple in color, italic & aligned in center */
+p {
+    color: dark purple;
+    font-style: italic;
+    align-items: center;
+}
+/* adds dotted blue border to images */
+img {
+    border: dotted blue;
+}
+/* Makes link appear at NOT underlined */
+a {
+    text-decoration: none;
+}
 
 
