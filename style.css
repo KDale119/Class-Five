@@ -1,2 +1,11 @@
+/* makes all text appear in same font*/
+* {
+    font-family: sans-serif;
+    
+}
+/* makes all h3 italic */
+h3 {
+    font-style: italic;
+}
 
 
