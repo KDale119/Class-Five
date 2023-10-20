@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header><h1>Questionaire</h1></header>
+    <form>
+      <label for="name">First & Last Name</label><br />
+      <input type="text" id="name" name="name" required minlength="2" /><br />
+
+      <label for="number">Contact Info</label> <br />
+      <input
+        type="number"
+        id="number"
+        name="number"
+        required
+        maxlength="120"
+      /><br />
+
+      <label for="favorite">Favorite food</label> <br />
+
+      <input type="radio" id="pizza" name="favorite" value="pizza" required />
+      <label for="pizza">Pizza</label><br />
+
+      <input type="radio" id="Steak" name="favorite" value="steak" required />
+      <label for="steak">Steak</label><br />
+
+      <input type="radio" id="burger" name="favorite" value="burger" required />
+      <label for="javascript">Burger</label> <br />
+      <button>Submit</button>
+    </form>
+  </body>
+</html>

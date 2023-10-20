@@ -20,7 +20,6 @@ img {
 /* Makes link appear at NOT underlined, added bg color, made font bold */
 a {
     text-decoration: none;
-    background-color: rgb(98, 98, 233);
     font-weight: bold;
 }
 
